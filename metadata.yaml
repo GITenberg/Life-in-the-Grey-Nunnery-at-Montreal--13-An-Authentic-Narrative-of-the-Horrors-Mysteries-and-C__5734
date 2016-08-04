@@ -1,0 +1,26 @@
+_repo: Life-in-the-Grey-Nunnery-at-Montreal--13-An-Authentic-Narrative-of-the-Horrors-Mysteries-and-C__5734
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, Sarah J.
+    birthdate: 1835
+    gutenberg_agent_id: '1857'
+    url: http://www.gutenberg.org/2009/agents/1857
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ex-nuns -- Biography'
+- !lcc 'BX'
+- !lcsh 'Convents -- Québec (Province) -- Montréal -- Biography'
+- !lcsh 'Richardson, Sarah J., b. 1835'
+- GITenberg
+title: "Life in the Grey Nunnery at Montreal\r\nAn Authentic Narrative of the Horrors,\
+  \ Mysteries, and Cruelties of Convent Life"
+url: http://www.gutenberg.org/ebooks/5734
