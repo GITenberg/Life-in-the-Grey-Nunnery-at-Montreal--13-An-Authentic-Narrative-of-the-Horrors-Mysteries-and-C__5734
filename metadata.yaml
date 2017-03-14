@@ -1,5 +1,8 @@
 _repo: Life-in-the-Grey-Nunnery-at-Montreal--13-An-Authentic-Narrative-of-the-Horrors-Mysteries-and-C__5734
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Richardson, Sarah J.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '1857'
     url: http://www.gutenberg.org/2009/agents/1857
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5734#Life-in-the-Grey-Nunnery-at-Montreal--13-An-Authentic-Narrative-of-the-Horrors-Mysteries-and-C_
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
